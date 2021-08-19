@@ -1,0 +1,4 @@
+in this folder you can understand the lifecycle of bean 
+like init method amd the destroy method - init method is initiated when bean is created and destroy is called when bean work is completed 
+destroy method can be seen working in singleton scope only, in prototyoe scope- ther are differnet bean created everytime so destroye method is called - client has to have some logic to call some ending method
+we can make custom method where we can check when the bean is ending in prototype scope and call the destroye method 
