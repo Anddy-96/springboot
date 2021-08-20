@@ -1,0 +1,2 @@
+This file has IOC and DI Impleted with only java annotation no XML file used 
+annotation used - @bean, @component that's it.
