@@ -1,0 +1,3 @@
+This file will be teching you how to work with both java and XML 
+just component scan is used in xml, rest all bean required annotation are used in java class 
+we have used componet, autowiered, postconstruct, postdestroye, qualifier 
