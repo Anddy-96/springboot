@@ -1,0 +1,2 @@
+In this folder you can see the build in validation from Spring MVC 
+we will be validating test field - not null and and size and also in "not null" we will remove the space leading and trailing both.
