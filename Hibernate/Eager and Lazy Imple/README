@@ -1,0 +1,4 @@
+Hello in ths i have writen code to show you how to use eager and lazy to fetch the data
+
+eager take all the data at the same time, lazy doesn't take it - how to get data when using lazy as session will be closed and rest data is required - you can use the HQL query - 
+this is also shown in fetchlazydemo.java file 
