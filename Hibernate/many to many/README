@@ -1,0 +1,6 @@
+Hello 
+
+in this we have many to many relationship btw student and courses 
+there can be n number of students and n number of courses 
+you will see how to create student and courses, - how to link them, it is done by another table to check "create_student" - how to get the student and course data - 
+-how to delete the student and course - only the course will  be deleted if you delete course and same for student if only student is delted - this is done by not selecting remve 
