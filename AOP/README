@@ -1,0 +1,5 @@
+AOP - Aspect Object Programing 
+this feature of spring helps in logging/printing/security features to be added before calling of method 
+
+you have to just make a class with all these loggig/printing/security methods 
+and appropriate call for example @Before is used to call before any method call 
