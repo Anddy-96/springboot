@@ -1,0 +1,2 @@
+In this you will see how to chach when some funciton throws exception- it can be checked by adding another method and adding annotation as @afterReturning 
+and than that method will run so - the exception can be read and altred
