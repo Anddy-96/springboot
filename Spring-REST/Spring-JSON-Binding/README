@@ -1,0 +1,4 @@
+In this you will sae how to read the JSON file into Java POJO and it uses getter and setter method 
+and how the nested JSON is also handled is shown, also list of array in json how to read it
+
+and if you keep adding new fields in JSON file then how to ignore those addition by adding annotation
