@@ -1,5 +1,6 @@
 In this project i have added 2 REST features 
 1-where you call the REST API and it will normally print Hello World
 2- in this it will print list of students 
+3- you can get data of particular student by using @pathVariable annotation for e.g /api/students/0 = this will fetch the student at 0 position 
 
 here is the link i use - this will run only on local host http://localhost:8080/spring-rest-demo/
