@@ -1,0 +1,5 @@
+In this project i have added 2 REST features 
+1-where you call the REST API and it will normally print Hello World
+2- in this it will print list of students 
+
+here is the link i use - this will run only on local host http://localhost:8080/spring-rest-demo/
