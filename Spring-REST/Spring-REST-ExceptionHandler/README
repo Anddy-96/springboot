@@ -1,0 +1,5 @@
+In this you will how to handle the exception handler from REST 
+if some error is thrown - like you waant ton access rhe data out of array then exceptionw will be thrwon and it will be ugly 
+we can make it much better "http://localhost:8080/spring-rest-demo/api/students/1"
+
+this is done in this project 
