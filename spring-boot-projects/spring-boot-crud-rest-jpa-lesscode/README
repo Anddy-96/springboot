@@ -1,0 +1,5 @@
+In this project full CRUD implemntation is done with REST API and you don't have to write any REST code - just add in POM file one dependency related to rest data
+it will give you all rest API
+with smaller first character and pural form of Entity class for e.g - Employee - /employees
+
+it support for searching and sorting API ALSO
